@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
   - title: "Introduce"
     url: /about/
-   - title: "Category"
+  - title: "Category"
     url: /categories/
-   - title: "Tags"
+  - title: "Tags"
     url: /tags/
