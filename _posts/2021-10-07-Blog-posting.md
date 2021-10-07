@@ -1,6 +1,6 @@
 ---
-title:  "[GitHub Blog] GitHub 블로그에 VSCode로 포스팅 하는 법"
-excerpt: "VsCode를 이용하여 GitHub 블로그에 포스팅 해보자."
+title:  "[GitHub Blog] VSCode로 GitHub 블로그 포스팅"
+excerpt: "Visual Studio Code를 이용하여 GitHub 블로그에 포스팅 해보자."
 
 categories:
   - Blog
